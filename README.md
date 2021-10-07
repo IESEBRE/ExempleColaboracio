@@ -1,6 +1,10 @@
 # ExempleColaboracio
 Repo per explicar com col·laborar entre diferents membres d'un equip al github
 
-int a;
+int b;
 
-a=a-1;
+b=b-1;
+
+int a=0;
+
+a=a+1;
